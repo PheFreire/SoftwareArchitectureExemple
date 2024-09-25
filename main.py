@@ -1,0 +1,5 @@
+from controllers.animais_conversam_controller import AnimaisConversamController
+
+
+animais_conversam_controller = AnimaisConversamController()
+animais_conversam_controller.call()
